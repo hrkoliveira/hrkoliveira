@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor front-end novato, apaixonado pelas melhores tecnologias de desenvolvimento web. Estou estudando e praticando através de cursos focados nas mais recentes tecnologias de desenvolvimento, e solidificando meus conhecimentos em javascript.
 - 👀 Estou interessado em oportunidades como desenvolvedor Front-End.
-- 🌱 Atualmente, estou aprendendo: HTML5, CSS3, JavaScript, React, TypeScript, NodeJs.
+- 🌱 Atualmente, estou aprendendo: HTML5, CSS3, JavaScript, React, TypeScript, Nextjs.
 
 
 
