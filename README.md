@@ -69,8 +69,8 @@ const herik = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=hrkoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrkoliveira&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" />
+  <img height="175em" src="https://github-readme-stats-git-master-denvercoder9.vercel.app/api?username=hrkoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5" />
+  <img height="175em" src="https://github-readme-stats-git-master-denvercoder9.vercel.app/api/top-langs/?username=hrkoliveira&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" />
 </div>
 
 <div align="center">
@@ -82,7 +82,7 @@ const herik = {
 ## 🏆 Troféus
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hrkoliveira&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hrkoliveira&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&v=2" />
 </div>
 
 ---
