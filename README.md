@@ -69,28 +69,19 @@ const herik = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats-git-master-denvercoder9.vercel.app/api?username=hrkoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5" />
-  <img height="175em" src="https://github-readme-stats-git-master-denvercoder9.vercel.app/api/top-langs/?username=hrkoliveira&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrkoliveira&theme=tokyonight&hide_border=true&background=1a1b27&stroke=7aa2f7&ring=7aa2f7&fire=ff9e64&currStreakLabel=c0caf5&sideLabels=c0caf5&currStreakNum=7aa2f7&sideNums=c0caf5&dates=a9b1d6" />
 </div>
 
----
-
-## 🏆 Troféus
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hrkoliveira&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&v=2" />
+  <img height="170em" src="https://github-contributor-stats.vercel.app/api?username=hrkoliveira&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
 </div>
 
 ---
 
-## 📈 Atividade
+## 🏆 Conquistas
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hrkoliveira&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=ff9e64&area=true&area_color=7aa2f7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hrkoliveira&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </div>
 
 ---
