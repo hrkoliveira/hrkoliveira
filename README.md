@@ -76,13 +76,6 @@ const herik = {
   <img height="170em" src="https://github-contributor-stats.vercel.app/api?username=hrkoliveira&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
 </div>
 
----
-
-## 🏆 Conquistas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hrkoliveira&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
-</div>
 
 ---
 
