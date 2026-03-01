@@ -79,6 +79,36 @@ const herik = {
 
 ---
 
+## 🤖 Como eu desenvolvo
+
+```typescript
+const workflow = {
+  ferramenta:  "Claude Code — CLI da Anthropic",
+  como:        "Desenvolvimento colaborativo via prompts no terminal",
+  aplicações:  ["arquitetura de sistemas", "revisão de código", "automações", "debug"],
+  filosofia:   "IA como co-piloto, não como substituto 🧠",
+  resultado:   "Mais velocidade, mais qualidade, menos retrabalho ⚡",
+};
+```
+
+<div align="center">
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-Anthropic-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7AA2F7?style=for-the-badge&logo=openai&logoColor=white)
+![AI Assisted Dev](https://img.shields.io/badge/AI_Assisted_Dev-47A248?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hrkoliveira/hrkoliveira/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
 ## 🤝 Vamos nos conectar!
 
 <div align="center">
